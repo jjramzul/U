@@ -1,0 +1,79 @@
+{
+  "recipes": [
+    {
+      "id": "zj80gedc",
+      "name": "Omelette",
+      "description": "Revuelve 3 huevos, hecha jamon luego queso y deja freir, voltea y hecha sal.",
+      "ingredients": [
+        "Huevo",
+        "Jamon",
+        "Queso",
+        "Sal"
+      ],
+      "mood": 4
+    },
+    {
+      "id": "1",
+      "name": "Pasta al Pesto",
+      "description": "Pasta con salsa pesto casera.",
+      "ingredients": [
+        "Pasta",
+        "Albahaca",
+        "Ajo",
+        "Parmesano",
+        "Aceite de oliva"
+      ],
+      "mood": 3
+    },
+    {
+      "id": "2",
+      "name": "Sopa cremosa de tomate",
+      "description": "Reconfortante y suave para días tranquilos.",
+      "ingredients": [
+        "Tomate",
+        "Cebolla",
+        "Crema",
+        "Ajo",
+        "Caldo"
+      ],
+      "mood": 1
+    },
+    {
+      "id": "seed-3",
+      "name": "Tacos de pollo",
+      "description": "Sencillos y sabrosos para ánimo medio.",
+      "ingredients": [
+        "Tortillas",
+        "Pollo",
+        "Cebolla",
+        "Cilantro",
+        "Limón"
+      ],
+      "mood": 2
+    },
+    {
+      "id": "4",
+      "name": "Salteado de verduras",
+      "description": "Rápido y ligero para subir energía.",
+      "ingredients": [
+        "Zanahoria",
+        "Brócoli",
+        "Pimentón",
+        "Salsa de soya"
+      ],
+      "mood": 4
+    },
+    {
+      "id": "5",
+      "name": "Ensalada cítrica",
+      "description": "Fresca y vibrante para ánimo alto.",
+      "ingredients": [
+        "Lechuga",
+        "Naranja",
+        "Pepino",
+        "Vinagreta"
+      ],
+      "mood": 5
+    }
+  ]
+}
